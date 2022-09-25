@@ -1,5 +1,5 @@
 import React from "react";
-import { render } from "react";
+import { render } from "react-dom";
 
 const Pet = (props) => {
   return React.createElement("div", {}, [
